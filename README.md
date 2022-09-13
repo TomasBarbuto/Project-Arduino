@@ -49,3 +49,5 @@ En el proyecto lo que se llega a lograr es que la corriente cuando el digitalrea
 
 
 LINK => https://www.tinkercad.com/things/hu2d8eqWVbC-copy-of-spectacular-fyyran-trug/editel?                            sharecode=04v1m7wNun8G3FxqBwqGFsI9QInVMlMt9rebGd6qHB0
+
+GDB => https://www.onlinegdb.com/yXe9Zm_KV
