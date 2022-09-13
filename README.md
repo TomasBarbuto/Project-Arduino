@@ -20,3 +20,5 @@ Colaboradores:
 Datos del proyecto: El proyecto se lleva a cabo en base a una placa Arduino-UNO, el cual va alimentar el circuito de cables y luces (entre ellas el bombillo y/o lamparita), junto un pulsador y un visualizador de 7 segmentos.
 En el proyecto lo que se llega a lograr es que la corriente cuando el digitalread del pulsador este en valor = 1 o HIGH, deje el paso de la corriente y pueda encender en un tiempo determinado el primer led, luego de unos segundos el proximo, hasta llegar al tercero. Una vez todo funcione se dara luz al bombillo madre indicando que todo salio bien.
 
+
+LINK => https://www.tinkercad.com/things/hu2d8eqWVbC-copy-of-spectacular-fyyran-trug/editel?                            sharecode=04v1m7wNun8G3FxqBwqGFsI9QInVMlMt9rebGd6qHB0
