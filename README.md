@@ -50,3 +50,6 @@ En el proyecto lo que se llega a lograr es que la corriente cuando el digitalrea
 LINK => https://www.tinkercad.com/things/3I4O1nRHOh3-smashing-amberis/editel?sharecode=-WGmSdtWCVbj0i7ORz3XXw3gKIgw9vLBMIc9zD7-XXA
 
 GDB => https://onlinegdb.com/PqcHdbef4
+
+LINK DEL VIDEO => https://drive.google.com/file/d/1OwusYrpd3Bj6AoJaXZNPE4TAZT-46enR/view?usp=sharing
+                  el enlace al video es un proyecto fallido, sepan disculpar.
